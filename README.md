@@ -1,9 +1,17 @@
-### Hi there 👋
+# _*:tada: Welcome to my GitHub profile ❗🎉*_
+
+Hello guys:wave:, my name is Lucas Schubert Gomes, a person that loves to learn new things :books:, a video-game player 🎮 and movie and series viewer 📸. I'm 20 years old and I'm from Caçapava, São Paulo-Brazil(BR). 
+
+I'm currently studying ***Analysis and Systems Development*** at UNIP São José dos Campos :man_student::mortar_board: and taking courses at Dio's platform to improve even more my knowledge about coding.
+
+I'm at the beginning of my Journey as a coder, but I discovered my passion for Technology when I was a little boy, during the time that I was used to be part of a Robotics Team.:wrench:🤖
+
+Is a pleasure to meat you ❗
 
 <!--
 **Schubert-lu/Schubert-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
