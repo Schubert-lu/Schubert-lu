@@ -6,7 +6,7 @@ I'm currently studying ***Analysis and Systems Development*** at UNIP São José
 
 I'm at the beginning of my Journey as a coder 🚀, but I discovered my passion for Technology when I was a little boy, during the time that I was used to be part of a Robotics Team.:wrench:🤖
 
-Is a pleasure to meat you ❗
+It's a pleasure to meat you ❗
 
 <!--
 **Schubert-lu/Schubert-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
