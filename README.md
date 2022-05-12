@@ -1,5 +1,13 @@
 <header>
   <h1 align="center">Hi, I'm Lucas</h1>
-  <h3 align="center">An future Front-End Developer from Brazil</h3>
+  <h3 align="center">An future Front-End Developer from Brazil :brazil:</h3>
 </header>
-<h3 align="center"><img src="https://github.com/Schubert-lu/Schubert-lu/issues/1#issue-1234333487">Welcome to my GitHub profile</h3>
+
+<body>
+<div>
+  <h3 align="center">Welcome to my GitHub profile <img src="https://user-images.githubusercontent.com/103296710/168143221-8c65d04c-eef2-4122-a280-2adca415b02a.gif" width="50px"</h3>
+</div>
+  <h3 color="red">About me</h3>
+  ssa
+  
+  </body>
