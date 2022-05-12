@@ -1,26 +1,5 @@
-# _*:tada: Welcome to my GitHub profile ❗🎉*_
-
-Hello guys:wave:, my name is Lucas Schubert Gomes, a person that loves to learn new things :books:, a Video-Game player 🎮 and movie and series viewer 📸. I'm 20 years old and I'm from Caçapava, São Paulo-Brazil(BR). 
-
-I'm currently studying ***Analysis and Systems Development*** at UNIP São José dos Campos :man_student::mortar_board: and taking courses at Dio's and Rocketseat platform to improve even more my knowledge about coding 💻.
-
-Actually, im challenging myself to complete the quests from #7DaysOfCode 📆!!
-
-I'm at the beginning of my Journey as a coder 🚀, but I discovered my passion for Technology when I was a little boy, during the time that I was used to be part of a Robotics Team.:wrench:🤖
-
-It's a pleasure to meet you ❗
-
-<!--
-**Schubert-lu/Schubert-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<header>
+  <h1 align="center">Hi, I'm Lucas</h1>
+  <h3 align="center">An future Front-End Developer from Brazil</h3>
+</header>
+<h3 align="center"><img src="">Welcome to my GitHub profile</h3>
