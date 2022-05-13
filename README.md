@@ -1,6 +1,6 @@
 <header>
   <h1 align="center"><strong>Hi, I'm Lucas</strong></h1>
-  <p align="center">An future Front-End Developer from Brazil<p><hr>
+  <p align="center">An future Front-End Developer from Brazil<p>
 </header>
 
 <body>
