@@ -5,7 +5,7 @@
 
 <body>
     <h2 align="center">Welcome to my GitHub profile <img src="https://user-images.githubusercontent.com/103296710/168143221-8c65d04c-eef2-4122-a280-2adca415b02a.gif" width="50px"</h2>
-  <h2 align="center"> <strong><em>About me</em></strong></h2>
+  <h2 align="center"> <strong><em> 📍 About me</em></strong></h2>
   <p align="justify">
     <img src="https://user-images.githubusercontent.com/103296710/168145504-7309e166-e617-44f4-aedb-20e3a7fb2c31.gif" width="350px" align="right">
   </P>
@@ -24,5 +24,4 @@
   <p align="justify">
         &nbsp &nbsp &nbsp It's a pleasure to meet you ❗
    </P>
-   <hr>
   </body>
