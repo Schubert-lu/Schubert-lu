@@ -10,18 +10,17 @@
     <img src="https://user-images.githubusercontent.com/103296710/168145504-7309e166-e617-44f4-aedb-20e3a7fb2c31.gif" width="350px" align="right">
   </P>
   <P align="justify">
-  &nbsp &nbsp &nbsp My name is Lucas Schubert Gomes, a person that loves to learn new things :books:, a Video-Game player 🎮 and movie and series viewer 📸. I'm 20 years old and I'm from Caçapava, São Paulo-Brazil(BR). 
+    <ul>
+       <li> 🌱 I'm 20 years old and I'm from Caçapava, São Paulo-Brazil(BR);
+       <li> :mortar_board: I'm currently studying <strong><em>Analysis and Systems Development</em></strong> at UNIP São José dos Campos;
+       <li>  :books: I'm a person that loves to learn new things;
+       <li>  :wrench: I discovered my passion for Technology when I was a little boy, during the time that I was used to be part of a Robotics Team 🤖;
+       <li> 🎮 Video-Game player and movie and series viewer;
+       <li> 📆 Actually, I'm challenging myself to complete the quests from #7DaysOfCode!!
+       <li> 💻 I'm taking courses at Dio's and Rocketseat platform to improve even more my knowledge about coding.
+       <li> 🚀 I'm at the beginning of my Journey as a coder.
+       <li> ✨ I'm always ready to help.
+      <li> 📫 How to reach me <a href="google.com" target="_blank"><strong><em>lucas.gomes_2012@hotmail.com</em></strong></a>
+    </ul>
   </P>
-  <P align="justify">
-    &nbsp &nbsp &nbsp I'm currently studying <strong><em>Analysis and Systems Development</em></strong> at UNIP São José dos Campos :man_student::mortar_board: and taking courses at Dio's and Rocketseat platform to improve even more my knowledge about coding 💻.
-  </p>
-  <P align="justify">
-        &nbsp &nbsp &nbsp Actually, im challenging myself to complete the quests from #7DaysOfCode 📆!!
-  </P>
-<p align="justify">
-        &nbsp &nbsp &nbsp I'm at the beginning of my Journey as a coder 🚀, but I discovered my passion for Technology when I was a little boy, during the time that I was used to be part of a Robotics Team.:wrench:🤖
-  </p>
-  <p align="justify">
-        &nbsp &nbsp &nbsp It's a pleasure to meet you ❗
-   </P>
   </body>
