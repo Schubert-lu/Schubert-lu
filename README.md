@@ -20,7 +20,7 @@
        <li> 💻 I'm taking courses at Dio's and Rocketseat platform to improve even more my knowledge about coding.
        <li> 🚀 I'm at the beginning of my Journey as a coder.
        <li> ✨ I'm always ready to help.
-      <li> 📫 How to reach me <a href="google.com" target="_blank"><strong><em>lucas.gomes_2012@hotmail.com</em></strong></a>
     </ul>
+    <hr>
   </P>
   </body>
