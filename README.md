@@ -1,5 +1,5 @@
 <header>
-  <h1 align="center"><strong>Hi, I'm Lucas</strong></h1>
+  <h1 align="center"><strong>Hi, I'm Lucas</strong> <img src="https://user-images.githubusercontent.com/103296710/168450894-9b35b2af-c467-4ce0-b811-fef55926cf55.gif" width="40px"></h1>
   <p align="center">An future Front-End Developer from Brazil<p>
 </header>
 
@@ -23,4 +23,7 @@
     </ul>
     <hr>
   </P>
-  </body>
+  <p>
+  <h2 align="center"> What am I learning ❓</h2>
+  </p>
+</body>
