@@ -24,6 +24,16 @@
     <hr>
   </P>
   <p>
+  
   <h2 align="center"> What am I learning ❓</h2>
+  <div align="center" height="100px" padding-left="5px">
+  <img src="https://user-images.githubusercontent.com/103296710/168451795-7b036eb2-9c84-4798-bbf1-250bf8f41161.png" height="100px" padding-left="5px">
+  <img src="https://user-images.githubusercontent.com/103296710/168451805-27310f98-62a1-4a61-ba53-986760c3ba00.png" height="100px">
+  <img src="https://user-images.githubusercontent.com/103296710/168451833-7803e460-0dfd-4101-a4f8-f91aa03ea60b.png" height="100px">
+  <img src="https://user-images.githubusercontent.com/103296710/168451891-18827f8b-700a-4887-a172-7d44cd504bf6.png" height="100px">
+  <img src="https://user-images.githubusercontent.com/103296710/168453427-999ab88b-2698-4957-9e9a-12b6650d703e.png" height="100px">
+  <img src="https://user-images.githubusercontent.com/103296710/168453326-0e329d32-f6d3-4fdc-851c-3db8889d9f14.png" height="100px">
+  <img src="https://user-images.githubusercontent.com/103296710/168453384-98eda32a-4543-4586-966a-4cedf35036c1.jpg" height="100px">
+  </div>
   </p>
 </body>
