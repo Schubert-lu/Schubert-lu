@@ -36,4 +36,7 @@
   <img src="https://user-images.githubusercontent.com/103296710/168453384-98eda32a-4543-4586-966a-4cedf35036c1.jpg" height="100px">
   </div>
   </p>
+  
+  <h2 align="center"> 📞Contact me at</h2>
+  <a href="https://www.linkedin.com/in/lucasschubertgomes/"><img src="https://user-images.githubusercontent.com/103296710/163696518-4b953208-eb6c-4535-90d1-c84cdaa84a36.png" width= 50px height=50px></a>
 </body>
