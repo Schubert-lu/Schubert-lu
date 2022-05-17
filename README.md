@@ -19,7 +19,7 @@
        <li> 📆 Actually, I'm challenging myself to complete the quests from #7DaysOfCode!!
        <li> 💻 I'm taking courses at Dio's and Rocketseat platform to improve even more my knowledge about coding.
        <li> ✨ I'm always ready to help.
-       <li> 📞You can reach me at Linkedin by pressing this buttom: <a href="https://www.linkedin.com/in/lucasschubertgomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"></a>
+       <li> 📞You can reach me at Linkedin by pressing this buttom: <a href="https://www.linkedin.com/in/lucasschubertgomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" width="80px"></a>
     </ul>
     <hr>
   </P>
