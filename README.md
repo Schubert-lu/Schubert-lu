@@ -32,10 +32,20 @@
     </div>
   </p>
   <hr>
-  
+  <div align="center">
+    <a href="https://github.com/Schubert-lu/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Schubert-lu&show_icons=true&theme=default" height="175px" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schubert-lu&layout=compact" height="175px">
+    </a>
+  </div>
   <H2 align="center"> <strong><em>📞Reach me at:</strong></em></h2>
   <div align="center"
     <a href="https://www.linkedin.com/in/lucasschubertgomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:lucas.gomes20123@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     <a href="mailto:lucas.gomes_2012@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  
+ 
 </body>
+
