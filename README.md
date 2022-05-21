@@ -32,7 +32,7 @@
   </p>
   <hr>
   
-  <H2 align="center"> <strong><em>How to reach me 📞</strong></em></h2>
+  <H2 align="center"> <strong><em>📞Reach me at:</strong></em></h2>
   <div align="center"
     <a href="https://www.linkedin.com/in/lucasschubertgomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:lucas.gomes20123@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
