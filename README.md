@@ -34,10 +34,10 @@
   <hr>
   <div align="center">
     <a href="https://github.com/Schubert-lu/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Schubert-lu&show_icons=true&theme=default" height="175px" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Schubert-lu&show_icons=true&theme=default" height="150px" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schubert-lu&layout=compact" height="175px">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schubert-lu&layout=compact" height="150px">
     </a>
   </div>
   <H2 align="center"> <strong><em>📞Reach me at:</strong></em></h2>
