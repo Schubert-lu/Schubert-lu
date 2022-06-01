@@ -1,11 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=Schubert-lu&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 <header>
-  <h1 align="center"><strong>Hi, I'm Lucas</strong> <img src="https://user-images.githubusercontent.com/103296710/168450894-9b35b2af-c467-4ce0-b811-fef55926cf55.gif" width="40px"></h1>
+  <h1 align="center"><strong>Hi, I'm Lucas</strong> <img src="https://user-images.githubusercontent.com/103296710/168450894-9b35b2af-c467-4ce0-b811-fef55926cf55.gif" width="40"></h1>
   <p align="center">An future Front-End Developer from Brazil<p>
 </header>
 
 <body>
-    <h2 align="center">Welcome to my GitHub profile <img src="https://user-images.githubusercontent.com/103296710/168143221-8c65d04c-eef2-4122-a280-2adca415b02a.gif" width="50px"</h2>
+    <h2 align="center">Welcome to my GitHub profile <img src="https://user-images.githubusercontent.com/103296710/168143221-8c65d04c-eef2-4122-a280-2adca415b02a.gif" width="50"</h2>
   <h2 align="center"> <strong><em> 📍 About me</em></strong></h2>
       <ul align="justify">
          <li> 🌱 I'm 20 years old and I'm from Caçapava, São Paulo-Brazil(BR);
