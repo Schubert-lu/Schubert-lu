@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=Schubert-lu&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 <header>
   <h1 align="center"><strong>Hi, I'm Lucas</strong> <img src="https://user-images.githubusercontent.com/103296710/168450894-9b35b2af-c467-4ce0-b811-fef55926cf55.gif" width="40"></h1>
-  <p align="center">An future Front-End Developer from Brazil<p>
+  <p align="center">An future Data Analyst from Brazil<p>
 </header>
 
 <body>
