@@ -21,13 +21,10 @@
   
   <H2 align="center"> <strong><em>What am I learning ❓</strong></em></h2>
     <div align="center">
-      <img src="https://user-images.githubusercontent.com/103296710/168451795-7b036eb2-9c84-4798-bbf1-250bf8f41161.png" height="75px">
-      <img src="https://user-images.githubusercontent.com/103296710/168451805-27310f98-62a1-4a61-ba53-986760c3ba00.png" height="75px">
-      <img src="https://user-images.githubusercontent.com/103296710/168451833-7803e460-0dfd-4101-a4f8-f91aa03ea60b.png" height="75px">
-      <img src="https://user-images.githubusercontent.com/103296710/168451891-18827f8b-700a-4887-a172-7d44cd504bf6.png" height="75px">
-      <img src="https://user-images.githubusercontent.com/103296710/168453427-999ab88b-2698-4957-9e9a-12b6650d703e.png" height="75px">
-      <img src="https://user-images.githubusercontent.com/103296710/168453326-0e329d32-f6d3-4fdc-851c-3db8889d9f14.png" height="75px">
-      <img src="https://user-images.githubusercontent.com/103296710/168453384-98eda32a-4543-4586-966a-4cedf35036c1.jpg" height="75px">
+      <img src="https://github.com/Schubert-lu/Schubert-lu/assets/103296710/77986c35-2564-4f11-8980-d0f24a713e70" height="75px">
+      <img src="https://github.com/Schubert-lu/Schubert-lu/assets/103296710/96602ae1-c9fe-45fb-8131-e37c3cb2c63c" height="75px">
+      <img src="https://github.com/Schubert-lu/Schubert-lu/assets/103296710/cb565d67-e32d-4920-8eb6-53360ef9f3e9" height="75px">
+      <img src="https://github.com/Schubert-lu/Schubert-lu/assets/103296710/c286f2e0-e0b1-4aec-8427-c24f19671672" height="75px">
     </div>
   </p>
   <hr>
