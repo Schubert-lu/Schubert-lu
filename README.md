@@ -8,12 +8,11 @@
     <h2 align="center">Welcome to my GitHub profile <img src="https://user-images.githubusercontent.com/103296710/168143221-8c65d04c-eef2-4122-a280-2adca415b02a.gif" width="50"</h2>
   <h2 align="center"> <strong><em> 📍 About me</em></strong></h2>
       <ul align="justify">
-         <li> 🌱 I'm 20 years old and I'm from Caçapava, São Paulo-Brazil(BR);
+         <li> 🌱 I'm 21 years old and I'm from Caçapava, São Paulo-Brazil(BR);
          <li> :mortar_board: I'm currently studying <strong><em>Analysis and Systems Development</em></strong> at UNIP São José dos Campos;
          <li>  :books: I'm a person that loves to learn new things;
          <li>  :wrench: I discovered my passion for Technology when I was a little boy, during the time that I was used to be part of a Robotics Team 🤖;
          <li> 🎮 Video-Game player and movie and series viewer;
-         <li> 💻 I'm taking courses at Dio's and Rocketseat platform to improve even more my knowledge about coding;
          <li> ✨ I'm always ready to help;
       </ul>
     <hr>
